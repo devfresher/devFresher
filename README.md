@@ -1,6 +1,6 @@
 ### Hey there 👋🏽
 
-🚀 Hey there! **Usman Soliu** here, a ✨ `Backend Software Engineer` ✨ from Ibadan, Nigeria. I am passionate about helping startups deliver better software and providing reliable backend solutions.
+🚀 Hi! **Usman Soliu** here, a ✨ `Backend Software Engineer` ✨ from Ibadan, Nigeria. I am passionate about helping startups deliver better software and providing reliable backend solutions.
 
 💻 My skills include Javascript, Node.Js, MongoDB, TDD, PHP, and Docker. I love exploring new technologies and currently fascinated by the possibilities of Typescript.
 
